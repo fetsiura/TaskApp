@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TaskDay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaskDay_jar</output-path>
+    <root id="archive" name="TaskDay.jar">
+      <element id="module-output" name="TaskDay" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../05_attachment_Zasoby do projektu.pl/commons-lang3-3.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
